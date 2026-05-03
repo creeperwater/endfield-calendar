@@ -1,0 +1,7 @@
+html,body,#app { height:100%; margin:0 }
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial }
+input[type=range] { vertical-align: middle }
+
+/* scrollbar small */
+.gantt-timeline::-webkit-scrollbar { height:10px; }
+.gantt-timeline::-webkit-scrollbar-thumb { background:#ddd; border-radius:6px }
